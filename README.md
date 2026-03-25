@@ -1,33 +1,62 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Arvind Meena;
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="wave">, I'm Arvind Meena
 
-* I'm a Software Developer from NSIT, India
-* I love building tech and learning new technologies
-* I love creating solutions to my day-to-day problems.
+I am a Software Engineer with a B.Tech in Computer Science from Netaji Subhas University Of Technology. I specialize in building highly scalable backend systems, full-text search architectures, and robust enterprise applications. 
 
+I am highly interested in working on complex problems, deep-diving into system performance, and collaborating with cross-functional teams to build tech that scales.
+
+---
+
+### 💼 Experience
+
+**Software Engineer @ POWERGRID Corporation of India** *(Sep 2023 - Present)*
+* Working as a full stack developer on an Enterprise applications.
+* Building robust frontends using React.js and TailwindCSS.
+
+**Teaching Assistant (Machine Learning) @ Scaler School of Technology** *(Jul 2022 - Aug 2023)*
+* Mentored 50+ students in Python, data structures, and Machine Learning fundamentals.
+
+---
+
+### 🛠 &nbsp;Tech Stack & Tools
+
+**Languages:**
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**Backend & Frameworks:**
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Databases & Caching:**
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**AI & Search:**
+![LLM / GenAI / RAG](https://img.shields.io/badge/-LLM%20%2F%20RAG-FF9900?style=flat)
+![Lucene.NET](https://img.shields.io/badge/-Lucene.NET-E52024?style=flat&logo=apache&logoColor=white)
+
+**Tools & Environments:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-1A1A1A?style=flat&logo=zed&logoColor=white)
+---
+
+### 📬 Connect with me
 
 <a href="https://www.linkedin.com/in/arvind-meena-ab382a204/">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
-      <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
-    </svg>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:arvindmee25@gmail.com">
-  <img align="left" alt="Mail me" width="22px" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
-
-### 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
